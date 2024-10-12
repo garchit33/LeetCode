@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/garchit33/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0908-middle-of-the-linked-list](https://github.com/garchit33/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/garchit33/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/garchit33/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
