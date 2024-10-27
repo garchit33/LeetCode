@@ -29,7 +29,6 @@ class Solution {
             for(int i=0; i<size; i++){
                 TreeNode rm = queue.poll();
                 sum+=rm.val;
-                System.out.println("sum "+sum);
 
                 if(rm.left!=null)
                     queue.offer(rm.left);
@@ -37,12 +36,9 @@ class Solution {
                     queue.offer(rm.right);
             }
             level++;
-            System.out.println("level "+level);
             if(sum > maxSum){
                 maxSum = sum;
                 ans = level;
-                System.out.println("maxSum "+maxSum);
-                System.out.println("ans "+ans);
             }
         }
         return ans;
