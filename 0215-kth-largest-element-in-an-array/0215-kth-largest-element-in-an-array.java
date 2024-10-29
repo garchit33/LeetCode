@@ -9,7 +9,7 @@ class Solution {
             return -1;
         
         while(k>1){
-            int ans =pq.poll();
+            pq.poll();
             k--;
         }
         return pq.poll();
