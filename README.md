@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/garchit33/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/garchit33/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/garchit33/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/garchit33/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/garchit33/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Interactive
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
