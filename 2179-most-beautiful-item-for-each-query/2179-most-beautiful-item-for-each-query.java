@@ -1,6 +1,6 @@
 class Solution {
     public int[] maximumBeauty(int[][] items, int[] queries) {
-        Arrays.sort(items, (a,b) -> a[0]==b[0]?b[1]-a[1]:a[0]-b[0]);
+        Arrays.sort(items, (a,b) -> a[0]==b[0]?a[1]-b[1]:a[0]-b[0]);
         int max = 0;
         int[] ans = new int[queries.length];
 
