@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/garchit33/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garchit33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/garchit33/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/garchit33/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/garchit33/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/garchit33/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/garchit33/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/garchit33/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/garchit33/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/garchit33/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/garchit33/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
