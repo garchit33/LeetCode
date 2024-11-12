@@ -1,26 +1,4 @@
 class Solution {
-    // public int[] maximumBeauty(int[][] items, int[] queries) {
-    // PriorityQueue<Integer> pq = new PriorityQueue<Integer>((a, b) -> b - a);
-    // int arr[] = new int[queries.length];
-    // for (int i = 0; i < queries.length; i++) {
-    // for (int nums[] : items) {
-    // // System.out.println("in items "+nums[0]);
-    // if (nums[0] <= queries[i]){
-    // // System.out.println("in queue "+nums[1]);
-    // pq.offer(nums[1]);
-    // }
-    // }
-    // int num = 0;
-    // if(pq.size()>0){
-    // // System.out.println("num "+num);
-    // num = pq.poll();
-    // arr[i] = num;
-    // pq.clear();
-    // }
-    // }
-    // return arr;
-    // }
-
     public int[] maximumBeauty(int[][] items, int[] queries) {
         Arrays.sort(items, (a,b) -> a[0]==b[0]?a[1]-b[1]:a[0]-b[0]);
         int max = 0;
