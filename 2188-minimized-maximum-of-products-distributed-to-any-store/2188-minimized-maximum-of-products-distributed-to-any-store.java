@@ -16,7 +16,7 @@ class Solution {
                 
                 ans = mid;
                 r=mid-1;
-                System.out.println(ans+" "+l);
+              //  System.out.println(ans+" "+l);
 
             }
             else
