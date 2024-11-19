@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/garchit33/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/garchit33/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Array
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/garchit33/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/garchit33/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/garchit33/LeetCode/tree/master/0077-combinations) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
