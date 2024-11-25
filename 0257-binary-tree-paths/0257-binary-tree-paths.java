@@ -14,24 +14,24 @@
  * }
  */
 class Solution {
-    List<String> list;
     public List<String> binaryTreePaths(TreeNode root) {
-        list = new ArrayList<>();
-        traverseTree(root, "");
-        return list;
+        List<String> ans = new ArrayList<>();
+        traverseTree(root, "", ans);
+        return ans;
     }
 
-    private void traverseTree(TreeNode root, String str){
+    private void traverseTree(TreeNode root, String str, List<String> ans){
         if(root == null)
             return;
+        
         if(root.left == null && root.right == null){
             str+=root.val;
-            list.add(str);
+            ans.add(str);
             return;
         }
 
         String s = str + root.val + "->";
-        traverseTree(root.left, s);
-        traverseTree(root.right, s);
+        traverseTree(root.left, s, ans);
+        traverseTree(root.right, s, ans);
     }
 }
