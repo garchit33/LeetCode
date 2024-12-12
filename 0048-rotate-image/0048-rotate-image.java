@@ -8,10 +8,10 @@ class Solution {
 
     private void transposeMatrix(int[][] matrix){
         for(int i=0; i<matrix.length; i++){
-            for(int  j=0; j<i; j++){
-                int val = matrix[i][j];
+            for(int j=0; j<i; j++){
+                int temp = matrix[i][j];
                 matrix[i][j] = matrix[j][i];
-                matrix[j][i] = val;
+                matrix[j][i] = temp;
             }
         }
     }
@@ -20,9 +20,9 @@ class Solution {
         for(int i=0; i<matrix.length; i++){
             int x = matrix.length-1;
             for(int j=0; j<x; j++){
-                int val = matrix[i][j];
+                int temp = matrix[i][j];
                 matrix[i][j] = matrix[i][x];
-                matrix[i][x--] = val;
+                matrix[i][x--] = temp;
             }
         }
     }
