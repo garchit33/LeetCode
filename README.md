@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/garchit33/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/garchit33/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0463-island-perimeter](https://github.com/garchit33/LeetCode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/garchit33/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/garchit33/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0463-island-perimeter](https://github.com/garchit33/LeetCode/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/garchit33/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/garchit33/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/garchit33/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0463-island-perimeter](https://github.com/garchit33/LeetCode/tree/master/0463-island-perimeter) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/garchit33/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/garchit33/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/garchit33/LeetCode/tree/master/0463-island-perimeter) |
 | [0655-print-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0655-print-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/garchit33/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
