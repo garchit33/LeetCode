@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/garchit33/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garchit33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/garchit33/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/garchit33/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/garchit33/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garchit33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/garchit33/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/garchit33/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
 | ------- |
