@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garchit33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/garchit33/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/garchit33/LeetCode/tree/master/3451-string-compression-iii) |
 ## Greedy
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garchit33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
 |  |
 | ------- |
