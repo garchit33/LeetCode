@@ -19,8 +19,8 @@ class Solution {
         grid[i][j]=0;
         int left = dfs(grid,i-1,j);
         int right = dfs(grid,i+1,j);
-        int up = dfs(grid, i, j+1);
-        int down = dfs(grid, i,j-1);
+        int up = dfs(grid, i, j-1);
+        int down = dfs(grid, i,j+1);
         return up+down+left+right+1;
     }
 }
