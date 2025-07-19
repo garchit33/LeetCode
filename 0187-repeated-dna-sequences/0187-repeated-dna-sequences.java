@@ -5,12 +5,14 @@ class Solution {
             return ans;
         
         Set<String> set = new HashSet<>();
-        String str = "";
+        // String str = "";
+        StringBuilder sb = new StringBuilder();
         int i=0;
         while(i<10){
-            str+=s.charAt(i++);
+            sb.append(s.charAt(i++));
+            // str+=s.charAt(i++);
         }
-        set.add(str);
+        set.add(sb.toString());
 
         while(i<s.length()){
             String sub = s.substring(i-9, i+1);
