@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/garchit33/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/garchit33/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garchit33/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/garchit33/LeetCode/tree/master/0143-reorder-list) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/garchit33/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/garchit33/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/garchit33/LeetCode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/garchit33/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/garchit33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/garchit33/LeetCode/tree/master/0257-binary-tree-paths) |
