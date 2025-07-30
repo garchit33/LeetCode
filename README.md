@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0955-complete-binary-tree-inserter](https://github.com/garchit33/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0955-complete-binary-tree-inserter](https://github.com/garchit33/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/garchit33/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [1023-time-based-key-value-store](https://github.com/garchit33/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/garchit33/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/garchit33/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0955-complete-binary-tree-inserter](https://github.com/garchit33/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/garchit33/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
