@@ -19,7 +19,7 @@ class Solution {
                 less.next = head;
                 head = head.next;
                 less = less.next;
-            }else {
+            }else{
                 grtr.next = head;
                 head = head.next;
                 grtr = grtr.next;
