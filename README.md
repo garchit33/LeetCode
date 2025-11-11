@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1916-find-center-of-star-graph](https://github.com/garchit33/LeetCode/tree/master/1916-find-center-of-star-graph) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0955-complete-binary-tree-inserter](https://github.com/garchit33/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/garchit33/LeetCode/tree/master/1036-rotting-oranges) |
@@ -644,5 +647,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
