@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/garchit33/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/garchit33/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1916-find-center-of-star-graph](https://github.com/garchit33/LeetCode/tree/master/1916-find-center-of-star-graph) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/garchit33/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0955-complete-binary-tree-inserter](https://github.com/garchit33/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/garchit33/LeetCode/tree/master/1036-rotting-oranges) |
