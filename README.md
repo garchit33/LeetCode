@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/garchit33/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/garchit33/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 ## Math
 |  |
 | ------- |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/garchit33/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 ## Topological Sort
 |  |
 | ------- |
