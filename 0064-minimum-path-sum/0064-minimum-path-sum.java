@@ -1,20 +1,25 @@
 class Solution {
     public int minPathSum(int[][] arr) {
-        for(int i=0; i<arr.length; i++){
-            for(int j=0; j<arr[0].length; j++){
-                if(i==0 && j==0)
-                    continue;
-                else if(i == 0){
-                    arr[i][j]+=arr[i][j-1];
-                }
-                else if(j == 0){
-                    arr[i][j]+=arr[i-1][j];
-                }else {
-                    arr[i][j] += Math.min(arr[i-1][j], arr[i][j-1]);
-                }
-            }
+        int[][] dp = new int[arr.length][arr[0].length];
+        for(int[] d : dp){
+            Arrays.fill(d, -1);
         }
+        return find(arr, 0, 0, dp);
+    }
 
-        return arr[arr.length-1][arr[0].length-1];
+    private int find(int[][] arr, int i, int j, int[][] dp){
+        if(i>=arr.length || j>=arr[0].length){
+            return 9999999;
+        }
+        if(i == arr.length-1 && j == arr[0].length-1){
+            return arr[i][j];
+        }
+        if(dp[i][j] != -1)
+            return dp[i][j];
+
+        int res1 = find(arr, i, j+1, dp); 
+        int res2 = find(arr, i+1, j, dp);
+        
+        return dp[i][j] = Math.min(res1, res2) + arr[i][j];
     }
 }
