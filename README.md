@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/garchit33/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/garchit33/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/garchit33/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Math
 |  |
 | ------- |
