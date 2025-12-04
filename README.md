@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/garchit33/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/garchit33/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/garchit33/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/garchit33/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/garchit33/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garchit33/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/garchit33/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/garchit33/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
