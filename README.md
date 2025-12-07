@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/garchit33/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/garchit33/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/garchit33/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/garchit33/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/garchit33/LeetCode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/garchit33/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/garchit33/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/garchit33/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/garchit33/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/garchit33/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/garchit33/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/garchit33/LeetCode/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/garchit33/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/garchit33/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/garchit33/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/garchit33/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/garchit33/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/garchit33/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
