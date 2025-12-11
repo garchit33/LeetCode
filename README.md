@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0636-exclusive-time-of-functions](https://github.com/garchit33/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/garchit33/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/garchit33/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/garchit33/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/garchit33/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/garchit33/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/garchit33/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/garchit33/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/garchit33/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/garchit33/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/garchit33/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0831-largest-sum-of-averages](https://github.com/garchit33/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/garchit33/LeetCode/tree/master/0542-01-matrix) |
 | [0664-strange-printer](https://github.com/garchit33/LeetCode/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/garchit33/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/garchit33/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0831-largest-sum-of-averages](https://github.com/garchit33/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/garchit33/LeetCode/tree/master/0868-push-dominoes) |
