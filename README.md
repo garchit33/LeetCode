@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/garchit33/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/garchit33/LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0664-strange-printer](https://github.com/garchit33/LeetCode/tree/master/0664-strange-printer) |
 | [0868-push-dominoes](https://github.com/garchit33/LeetCode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garchit33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/garchit33/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/garchit33/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/garchit33/LeetCode/tree/master/0542-01-matrix) |
+| [0664-strange-printer](https://github.com/garchit33/LeetCode/tree/master/0664-strange-printer) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/garchit33/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0831-largest-sum-of-averages](https://github.com/garchit33/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/garchit33/LeetCode/tree/master/0868-push-dominoes) |
