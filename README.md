@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/garchit33/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/garchit33/LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/garchit33/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/garchit33/LeetCode/tree/master/0664-strange-printer) |
 | [0730-count-different-palindromic-subsequences](https://github.com/garchit33/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0868-push-dominoes](https://github.com/garchit33/LeetCode/tree/master/0868-push-dominoes) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/garchit33/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/garchit33/LeetCode/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/garchit33/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/garchit33/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/garchit33/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/garchit33/LeetCode/tree/master/0542-01-matrix) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/garchit33/LeetCode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/garchit33/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/garchit33/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/garchit33/LeetCode/tree/master/0542-01-matrix) |
 | [0664-strange-printer](https://github.com/garchit33/LeetCode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/garchit33/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
