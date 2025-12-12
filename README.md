@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/garchit33/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0913-random-flip-matrix](https://github.com/garchit33/LeetCode/tree/master/0913-random-flip-matrix) |
 | [1023-time-based-key-value-store](https://github.com/garchit33/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/garchit33/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0990-satisfiability-of-equality-equations](https://github.com/garchit33/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-rotting-oranges](https://github.com/garchit33/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/garchit33/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/garchit33/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1023-time-based-key-value-store](https://github.com/garchit33/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/garchit33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/garchit33/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0831-largest-sum-of-averages](https://github.com/garchit33/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/garchit33/LeetCode/tree/master/0868-push-dominoes) |
+| [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Queue
