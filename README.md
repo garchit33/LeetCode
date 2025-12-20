@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/garchit33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garchit33/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/garchit33/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Array
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garchit33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1916-find-center-of-star-graph](https://github.com/garchit33/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/garchit33/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/garchit33/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Combinatorics
 |  |
 | ------- |
