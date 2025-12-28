@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garchit33/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/garchit33/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garchit33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1916-find-center-of-star-graph](https://github.com/garchit33/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/garchit33/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -768,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Shortest Path
 |  |
 | ------- |
