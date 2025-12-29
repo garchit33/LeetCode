@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garchit33/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/garchit33/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garchit33/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garchit33/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/garchit33/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/garchit33/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1615-maximal-network-rank](https://github.com/garchit33/LeetCode/tree/master/1615-maximal-network-rank) |
 | [1916-find-center-of-star-graph](https://github.com/garchit33/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/garchit33/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/garchit33/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/garchit33/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -711,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/garchit33/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/garchit33/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Rolling Hash
