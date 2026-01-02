@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
 | [1321-get-equal-substrings-within-budget](https://github.com/garchit33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garchit33/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garchit33/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garchit33/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Array
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/garchit33/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/garchit33/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garchit33/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/garchit33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garchit33/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/garchit33/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
