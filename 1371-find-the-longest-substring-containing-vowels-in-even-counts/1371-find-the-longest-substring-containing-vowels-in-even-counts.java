@@ -1,35 +1,35 @@
 class Solution {
     public int findTheLongestSubstring(String s) {
-        int[] state = new int[5];
+        HashMap<Character, Integer> vowelMap = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
+        int mask = 0;
+        map.put(mask, -1);
         int ans = 0;
-        Map<String, Integer> map = new HashMap<>();
-        String currState = "00000";
-        map.put(currState, -1);
+
+        vowelMap.put('a', 0);
+        vowelMap.put('e', 1);
+        vowelMap.put('i', 2);
+        vowelMap.put('o', 3);
+        vowelMap.put('u', 4);
 
         for(int i=0; i<s.length(); i++){
-            if(s.charAt(i) == 'a'){
-                state[0] = (state[0]+1) % 2;
-            }else if(s.charAt(i) == 'e'){
-                state[1] = (state[1]+1) % 2;
-            }else if(s.charAt(i) == 'i'){
-                state[2] = (state[2]+1) % 2;
-            }else if(s.charAt(i) == 'o'){
-                state[3] = (state[3]+1) % 2;
-            }else if(s.charAt(i) == 'u'){
-                state[4] = (state[4]+1) % 2;
+            if(isVowel(s.charAt(i))){
+                mask = mask ^ (1 << vowelMap.get(s.charAt(i)));
             }
 
-            currState = "";
-            for(int j=0; j<5; j++){
-                currState = currState + state[j];
-            }
-
-            if(map.containsKey(currState)){
-                ans = Math.max(ans, i-map.get(currState));
+            if(map.containsKey(mask)){
+                ans = Math.max(ans, i-map.get(mask));
             }else {
-                map.put(currState, i);
+                map.put(mask, i);
             }
         }
         return ans;
+    }
+
+    private boolean isVowel(char ch){
+        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            return true;
+        
+        return false;
     }
 }
