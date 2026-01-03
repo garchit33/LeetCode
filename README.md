@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/garchit33/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-can-make-palindrome-from-substring](https://github.com/garchit33/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/garchit33/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/garchit33/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1310-xor-queries-of-a-subarray](https://github.com/garchit33/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/garchit33/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/garchit33/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/garchit33/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/garchit33/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/garchit33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/garchit33/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1177-can-make-palindrome-from-substring](https://github.com/garchit33/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/garchit33/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/garchit33/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/garchit33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
