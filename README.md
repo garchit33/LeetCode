@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/garchit33/LeetCode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/garchit33/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/garchit33/LeetCode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/garchit33/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Breadth-First Search
 |  |
 | ------- |
