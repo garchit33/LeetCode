@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/garchit33/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/garchit33/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/garchit33/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/garchit33/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/garchit33/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/garchit33/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/garchit33/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/garchit33/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Queue
