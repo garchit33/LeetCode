@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1615-maximal-network-rank](https://github.com/garchit33/LeetCode/tree/master/1615-maximal-network-rank) |
 | [1916-find-center-of-star-graph](https://github.com/garchit33/LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/garchit33/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/garchit33/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/garchit33/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/garchit33/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 ## Topological Sort
