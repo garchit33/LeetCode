@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/garchit33/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
 ## Graph
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garchit33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
 ## Interactive
 |  |
 | ------- |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/garchit33/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/garchit33/LeetCode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
 ## Backtracking
 |  |
 | ------- |
