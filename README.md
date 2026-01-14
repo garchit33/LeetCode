@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/garchit33/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/garchit33/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/garchit33/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1755-defuse-the-bomb](https://github.com/garchit33/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/garchit33/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/garchit33/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/garchit33/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/garchit33/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/garchit33/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/garchit33/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
