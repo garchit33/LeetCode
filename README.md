@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/garchit33/LeetCode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/garchit33/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/garchit33/LeetCode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
 ## Graph
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garchit33/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2742-painting-the-walls](https://github.com/garchit33/LeetCode/tree/master/2742-painting-the-walls) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/garchit33/LeetCode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 ## Queue
 |  |
 | ------- |
