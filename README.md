@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/garchit33/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/garchit33/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/garchit33/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/garchit33/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/garchit33/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/garchit33/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/garchit33/LeetCode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
 ## Graph
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/garchit33/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garchit33/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Union Find
 |  |
@@ -915,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/garchit33/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/garchit33/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2276-count-integers-in-intervals](https://github.com/garchit33/LeetCode/tree/master/2276-count-integers-in-intervals) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -931,4 +937,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
