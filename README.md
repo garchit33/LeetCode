@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garchit33/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/garchit33/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/garchit33/LeetCode/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/garchit33/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/garchit33/LeetCode/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garchit33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/garchit33/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/garchit33/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Prefix Sum
 |  |
 | ------- |
