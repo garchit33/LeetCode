@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/garchit33/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/garchit33/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/garchit33/LeetCode/tree/master/0101-symmetric-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/garchit33/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/garchit33/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/garchit33/LeetCode/tree/master/0101-symmetric-tree) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/garchit33/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/garchit33/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/garchit33/LeetCode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/garchit33/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/garchit33/LeetCode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/garchit33/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/garchit33/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/garchit33/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/garchit33/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/garchit33/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/garchit33/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/garchit33/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/garchit33/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/garchit33/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garchit33/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/garchit33/LeetCode/tree/master/0174-dungeon-game) |
