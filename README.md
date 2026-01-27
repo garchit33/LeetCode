@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/garchit33/LeetCode/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/garchit33/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/garchit33/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/garchit33/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garchit33/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/garchit33/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2742-painting-the-walls](https://github.com/garchit33/LeetCode/tree/master/2742-painting-the-walls) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/garchit33/LeetCode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -963,4 +965,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/garchit33/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
