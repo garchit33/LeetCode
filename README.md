@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garchit33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/garchit33/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/garchit33/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1642-furthest-building-you-can-reach](https://github.com/garchit33/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/garchit33/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/garchit33/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/garchit33/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/garchit33/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1642-furthest-building-you-can-reach](https://github.com/garchit33/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/garchit33/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/garchit33/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/garchit33/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/garchit33/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/garchit33/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1642-furthest-building-you-can-reach](https://github.com/garchit33/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/garchit33/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/garchit33/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
