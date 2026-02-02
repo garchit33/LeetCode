@@ -1,41 +1,31 @@
 class Solution {
     public int findNumberOfLIS(int[] nums) {
-        int[][][] dp = new int[nums.length][nums.length+1][2];
-        for(int[][] d : dp){
-            for(int[] p : d){
-                Arrays.fill(p, -1);
-            }
-        }
-
-        int[] ans = find(nums, 0, -1, dp);
-        return ans[1];
-    }
-
-    private int[] find(int[] nums, int idx, int pos, int[][][] dp){
-        if(idx >= nums.length)
-            return new int[]{0,1};
+        int[] len = new int[nums.length];
+        Arrays.fill(len, 1);
+        int[] count = new int[nums.length];
+        Arrays.fill(count, 1);
         
-        if(dp[idx][pos+1][0] != -1)
-            return dp[idx][pos+1];
-
-        int notTake[] = find(nums, idx+1, pos, dp);
-        int len = notTake[0];
-        int count = notTake[1];
-
-        if(pos == -1 || nums[idx] > nums[pos]){
-            int take[] = find(nums, idx+1, idx, dp);
-            int newLength = 1 + take[0];
-            int newCount = take[1];
-
-            if(newLength > len){
-                len = newLength;
-                count = newCount;
-            } else if(newLength == len){
-                count+=newCount;
+        int maxLen = 1;
+        for(int i=0; i < nums.length; i++){
+            for(int j=0; j < i; j++){
+                if(nums[i] > nums[j]){
+                    if(len[j]+1 > len[i]){
+                        len[i] = len[j]+1;
+                        count[i] = count[j];
+                    } else if(len[j]+1 == len[i]){
+                        count[i] += count[j];
+                    }
+                }
+                maxLen = Math.max(maxLen, len[i]);
             }
         }
-        dp[idx][pos+1][0] = len;
-        dp[idx][pos+1][1] = count;
-        return dp[idx][pos+1];
+
+        int ans = 0;
+        for(int i=0; i<nums.length; i++){
+            if(len[i] == maxLen){
+                ans += count[i];
+            }
+        }
+        return ans;
     }
 }
