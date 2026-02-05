@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/garchit33/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 | [0988-flip-equivalent-binary-trees](https://github.com/garchit33/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/garchit33/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 | [0955-complete-binary-tree-inserter](https://github.com/garchit33/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/garchit33/LeetCode/tree/master/1036-rotting-oranges) |
@@ -994,9 +996,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/garchit33/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/garchit33/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
