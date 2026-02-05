@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/garchit33/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/garchit33/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/garchit33/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/garchit33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/garchit33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/garchit33/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/garchit33/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Binary Indexed Tree
@@ -1005,5 +1008,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
