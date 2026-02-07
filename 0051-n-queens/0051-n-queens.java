@@ -5,11 +5,11 @@ class Solution {
         for(char[] ch : board)
             Arrays.fill(ch,'.');
         
-        generate(board, 0);
+        makeBoard(board, 0);
         return res;
     }
 
-    private void generate(char[][] board, int row){
+    private void makeBoard(char[][] board, int row){
         if(row == board.length){
             List<String> list = new ArrayList<>();
             for(int i=0; i<board.length; i++){
@@ -21,7 +21,7 @@ class Solution {
         for(int col = 0; col < board.length; col++){
             if(isSafe(board, row, col)){
                 board[row][col] = 'Q';
-                generate(board, row+1);
+                makeBoard(board, row+1);
                 board[row][col] = '.';
             }
         }
