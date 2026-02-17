@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/garchit33/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2381-shifting-letters-ii](https://github.com/garchit33/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/garchit33/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/garchit33/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/garchit33/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/garchit33/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2381-shifting-letters-ii](https://github.com/garchit33/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/garchit33/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/garchit33/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/garchit33/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/garchit33/LeetCode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2358-number-of-ways-to-split-array](https://github.com/garchit33/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2381-shifting-letters-ii](https://github.com/garchit33/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/garchit33/LeetCode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
