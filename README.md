@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/garchit33/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/garchit33/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/garchit33/LeetCode/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/garchit33/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/garchit33/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0910-smallest-range-ii](https://github.com/garchit33/LeetCode/tree/master/0910-smallest-range-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/garchit33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/garchit33/LeetCode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/garchit33/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/garchit33/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/garchit33/LeetCode/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/garchit33/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0913-random-flip-matrix](https://github.com/garchit33/LeetCode/tree/master/0913-random-flip-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/garchit33/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/garchit33/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/garchit33/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/garchit33/LeetCode/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/garchit33/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/garchit33/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/garchit33/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/garchit33/LeetCode/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/garchit33/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/garchit33/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0910-smallest-range-ii](https://github.com/garchit33/LeetCode/tree/master/0910-smallest-range-ii) |
@@ -869,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/garchit33/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/garchit33/LeetCode/tree/master/0621-task-scheduler) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/garchit33/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Simulation
