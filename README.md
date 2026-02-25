@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/garchit33/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/garchit33/LeetCode/tree/master/0100-same-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/garchit33/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/garchit33/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/garchit33/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/garchit33/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/garchit33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/garchit33/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/garchit33/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/garchit33/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/garchit33/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/garchit33/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/garchit33/LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/garchit33/LeetCode/tree/master/0120-triangle) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/garchit33/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/garchit33/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/garchit33/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/garchit33/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/garchit33/LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/garchit33/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/garchit33/LeetCode/tree/master/0200-number-of-islands) |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/garchit33/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/garchit33/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/garchit33/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/garchit33/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/garchit33/LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/garchit33/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/garchit33/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
