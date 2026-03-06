@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/garchit33/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/garchit33/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/garchit33/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/garchit33/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garchit33/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/garchit33/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garchit33/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/garchit33/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/garchit33/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/garchit33/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/garchit33/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/garchit33/LeetCode/tree/master/0086-partition-list) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/garchit33/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/garchit33/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/garchit33/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/garchit33/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/garchit33/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/garchit33/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/garchit33/LeetCode/tree/master/0051-n-queens) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/garchit33/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/garchit33/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/garchit33/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/garchit33/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -919,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/garchit33/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/garchit33/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/garchit33/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/garchit33/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/garchit33/LeetCode/tree/master/0063-unique-paths-ii) |
