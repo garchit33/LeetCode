@@ -1,30 +1,32 @@
 class Solution {
     public boolean canTransform(String start, String result) {
-        if (start.length() != result.length())
+        if(start.length() != result.length())
             return false;
-
-        int i = 0, j = 0;
-        int n = start.length();
-        while (i < n || j < n) {
-            while (i < n && start.charAt(i) == 'X')
+        
+        int i=0;
+        int j=0;
+        while(i<start.length() || j<result.length()){
+            while(i < start.length() && start.charAt(i) == 'X'){
                 i++;
-            while (j < n && result.charAt(j) == 'X')
+            }
+            while(j < result.length() && result.charAt(j) == 'X'){
                 j++;
-
-            if(i == n ^ j == n)
-                return false;
-
-            if (i < n && j < n) {
-                if (start.charAt(i) != result.charAt(j))
-                    return false;
-
-                if (start.charAt(i) == 'L' && j > i)
-                    return false;
-
-                if (start.charAt(i) == 'R' && i > j)
-                    return false;
             }
 
+            if(i == start.length() ^ j == result.length())
+                return false;
+            
+            if(i < start.length() && j < result.length()){
+                if(start.charAt(i) != result.charAt(j))
+                    return false;
+
+                if(start.charAt(i) == 'L' && i < j){
+                    return false;
+                }
+                if(start.charAt(i) == 'R' && i > j){
+                    return false;
+                }
+            }
             i++;
             j++;
         }
