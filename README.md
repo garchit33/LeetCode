@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/garchit33/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/garchit33/LeetCode/tree/master/0664-strange-printer) |
 | [0730-count-different-palindromic-subsequences](https://github.com/garchit33/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/garchit33/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0848-shifting-letters](https://github.com/garchit33/LeetCode/tree/master/0848-shifting-letters) |
 | [0868-push-dominoes](https://github.com/garchit33/LeetCode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garchit33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/garchit33/LeetCode/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/garchit33/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/garchit33/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/garchit33/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0826-most-profit-assigning-work](https://github.com/garchit33/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0868-push-dominoes](https://github.com/garchit33/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/garchit33/LeetCode/tree/master/0908-middle-of-the-linked-list) |
