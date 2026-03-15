@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/garchit33/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/garchit33/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/garchit33/LeetCode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/garchit33/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/garchit33/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/garchit33/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garchit33/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/garchit33/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/garchit33/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/garchit33/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0387-first-unique-character-in-a-string](https://github.com/garchit33/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/garchit33/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/garchit33/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/garchit33/LeetCode/tree/master/0460-lfu-cache) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/garchit33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/garchit33/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/garchit33/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/garchit33/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/garchit33/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/garchit33/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
