@@ -4,14 +4,15 @@ class Solution {
         for(char ch : tasks){
             freq[ch - 'A']++;
         }
+
         Arrays.sort(freq);
-        int chunk = freq[25]-1;
-        int idle = chunk * n;
+        int maxIdlePerTask = freq[25]-1;
+        int maxIdle = maxIdlePerTask * n;
 
         for(int i=24; i>=0; i--){
-            idle -= Math.min(chunk, freq[i]);
+            maxIdle -= Math.min(maxIdlePerTask, freq[i]);
         }
 
-        return idle < 0 ? tasks.length : tasks.length+idle;
+        return maxIdle < 0 ? tasks.length : tasks.length+maxIdle;
     }
 }
