@@ -58,8 +58,8 @@ class Solution {
             int currDist = rm[0];
             int currNode = rm[1];
 
-            if (currDist > cost[currNode]) 
-                continue;
+            // if (currDist > cost[currNode]) 
+            //     continue;
 
             for(int[] neighbour : graph.get(currNode)){
                 int nbr = neighbour[0];
