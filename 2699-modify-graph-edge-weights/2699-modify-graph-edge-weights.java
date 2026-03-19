@@ -64,7 +64,6 @@ class Solution {
             for(int[] neighbour : graph.get(currNode)){
                 int nbr = neighbour[0];
                 int wt = neighbour[1];
-
                 if(currDist + wt < cost[nbr]){
                     cost[nbr] = currDist + wt;
                     pq.offer(new int[]{(int)cost[nbr], nbr});
