@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/garchit33/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2381-shifting-letters-ii](https://github.com/garchit33/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/garchit33/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/garchit33/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/garchit33/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/garchit33/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2561-rearranging-fruits](https://github.com/garchit33/LeetCode/tree/master/2561-rearranging-fruits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/garchit33/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/garchit33/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
