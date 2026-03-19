@@ -46,17 +46,17 @@ class Solution {
             }
         }
 
-        PriorityQueue<long[]> pq = new PriorityQueue<>((a,b) -> Long.compare(a[0],b[0]));
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[0]-b[0]);
         long[] cost = new long[n];
-        Arrays.fill(cost, Long.MAX_VALUE);
+        Arrays.fill(cost, Integer.MAX_VALUE);
 
-        pq.offer(new long[]{0, src});
+        pq.offer(new int[]{0, src});
         cost[src] = 0;
 
         while(pq.size() > 0){
-            long[] rm = pq.poll();
-            long currDist = rm[0];
-            int currNode = (int) rm[1];
+            int[] rm = pq.poll();
+            int currDist = rm[0];
+            int currNode = rm[1];
 
             if (currDist > cost[currNode]) 
                 continue;
@@ -67,7 +67,7 @@ class Solution {
 
                 if(currDist + wt < cost[nbr]){
                     cost[nbr] = currDist + wt;
-                    pq.offer(new long[]{cost[nbr], nbr});
+                    pq.offer(new int[]{(int)cost[nbr], nbr});
                 }
             }
         }
