@@ -1,36 +1,39 @@
 class Solution {
     public String minWindow(String s, String t) {
-        Map<Character, Integer> map = new HashMap<>();
-        for(char ch : t.toCharArray()){
-            map.put(ch, map.getOrDefault(ch, 0)+1);
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        for(int i=0; i<t.length(); i++){
+            map.put(t.charAt(i), map.getOrDefault(t.charAt(i),0)+1);
         }
 
-        int countRequired = t.length();
+        int countReq = t.length();
         int l=0;
         int r=0;
-        int windowSize = Integer.MAX_VALUE;
-        int startIndex = 0;
-        while(r<s.length()){
-            if(map.containsKey(s.charAt(r)) && map.get(s.charAt(r)) > 0){
-                countRequired--;
-            }
-            map.put(s.charAt(r), map.getOrDefault(s.charAt(r), 0)-1);
+        int winSize = Integer.MAX_VALUE;
+        int startIdx = 0;
 
-            while(countRequired == 0){
-                if(windowSize > (r-l+1)){
-                    windowSize = r-l+1;
-                    startIndex = l;
+        while(r < s.length()){
+            if(map.containsKey(s.charAt(r)) && map.get(s.charAt(r)) > 0){
+                countReq--;
+            }
+
+            map.put(s.charAt(r), map.getOrDefault(s.charAt(r),0)-1);
+
+            while(countReq == 0){
+                if(winSize > (r-l+1)){
+                    winSize = r-l+1;
+                    startIdx = l;
                 }
 
-                map.put(s.charAt(l), map.getOrDefault(s.charAt(l), 0)+1);
+                map.put(s.charAt(l), map.getOrDefault(s.charAt(l),0)+1);
                 if(map.get(s.charAt(l)) > 0){
-                    countRequired++;
+                    countReq++;
                 }
                 l++;
             }
             r++;
         }
 
-        return windowSize == Integer.MAX_VALUE ? "" : s.substring(startIndex,  startIndex + windowSize);
+        return winSize == Integer.MAX_VALUE ? "" : s.substring(startIdx, startIdx+winSize);
     }
 }
