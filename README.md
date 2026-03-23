@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/garchit33/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/garchit33/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2370-longest-ideal-subsequence](https://github.com/garchit33/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/garchit33/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/garchit33/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/garchit33/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2370-longest-ideal-subsequence](https://github.com/garchit33/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/garchit33/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/garchit33/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garchit33/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/garchit33/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/garchit33/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2370-longest-ideal-subsequence](https://github.com/garchit33/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/garchit33/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2742-painting-the-walls](https://github.com/garchit33/LeetCode/tree/master/2742-painting-the-walls) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/garchit33/LeetCode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
