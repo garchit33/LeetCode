@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/garchit33/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/garchit33/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/garchit33/LeetCode/tree/master/0436-find-right-interval) |
 | [0463-island-perimeter](https://github.com/garchit33/LeetCode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/garchit33/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/garchit33/LeetCode/tree/master/0493-reverse-pairs) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/garchit33/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0367-valid-perfect-square](https://github.com/garchit33/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/garchit33/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/garchit33/LeetCode/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/garchit33/LeetCode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/garchit33/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/garchit33/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/garchit33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garchit33/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/garchit33/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/garchit33/LeetCode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/garchit33/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/garchit33/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/garchit33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
