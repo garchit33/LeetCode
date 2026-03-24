@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/garchit33/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/garchit33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/garchit33/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-can-make-palindrome-from-substring](https://github.com/garchit33/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/garchit33/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/garchit33/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/garchit33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/garchit33/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/garchit33/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Recursion
 |  |
