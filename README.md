@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/garchit33/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/garchit33/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2402-meeting-rooms-iii](https://github.com/garchit33/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garchit33/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/garchit33/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/garchit33/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/garchit33/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/garchit33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garchit33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2258-escape-the-spreading-fire](https://github.com/garchit33/LeetCode/tree/master/2258-escape-the-spreading-fire) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garchit33/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
 ## Interactive
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/garchit33/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garchit33/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garchit33/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
 | ------- |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/garchit33/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garchit33/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/garchit33/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
