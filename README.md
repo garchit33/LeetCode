@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/garchit33/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/garchit33/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garchit33/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/garchit33/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/garchit33/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/garchit33/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/garchit33/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/garchit33/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/garchit33/LeetCode/tree/master/1314-matrix-block-sum) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/garchit33/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/garchit33/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/garchit33/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/garchit33/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/garchit33/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -1177,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/garchit33/LeetCode/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/garchit33/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Sweep Line
 |  |
 | ------- |
