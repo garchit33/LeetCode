@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/garchit33/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2258-escape-the-spreading-fire](https://github.com/garchit33/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/garchit33/LeetCode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 | [1377-frog-position-after-t-seconds](https://github.com/garchit33/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/garchit33/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/garchit33/LeetCode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2699-modify-graph-edge-weights](https://github.com/garchit33/LeetCode/tree/master/2699-modify-graph-edge-weights) |
 ## Binary Indexed Tree
 |  |
