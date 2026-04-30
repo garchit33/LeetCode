@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/garchit33/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2742-painting-the-walls](https://github.com/garchit33/LeetCode/tree/master/2742-painting-the-walls) |
+| [3225-maximum-score-from-grid-operations](https://github.com/garchit33/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/garchit33/LeetCode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/garchit33/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/garchit33/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/garchit33/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2258-escape-the-spreading-fire](https://github.com/garchit33/LeetCode/tree/master/2258-escape-the-spreading-fire) |
+| [3225-maximum-score-from-grid-operations](https://github.com/garchit33/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3643-flip-square-submatrix-vertically](https://github.com/garchit33/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/garchit33/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/garchit33/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/garchit33/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3225-maximum-score-from-grid-operations](https://github.com/garchit33/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/garchit33/LeetCode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3748-count-stable-subarrays](https://github.com/garchit33/LeetCode/tree/master/3748-count-stable-subarrays) |
 ## Backtracking
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2370-longest-ideal-subsequence](https://github.com/garchit33/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/garchit33/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2742-painting-the-walls](https://github.com/garchit33/LeetCode/tree/master/2742-painting-the-walls) |
+| [3225-maximum-score-from-grid-operations](https://github.com/garchit33/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/garchit33/LeetCode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 ## Queue
 |  |
