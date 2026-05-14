@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/garchit33/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-can-make-palindrome-from-substring](https://github.com/garchit33/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1185-find-in-mountain-array](https://github.com/garchit33/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/garchit33/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/garchit33/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/garchit33/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1310-xor-queries-of-a-subarray](https://github.com/garchit33/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/garchit33/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/garchit33/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/garchit33/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/garchit33/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
