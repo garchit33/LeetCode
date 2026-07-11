@@ -14,25 +14,26 @@ class Solution {
         if(head == null)
             return null;
 
-        ListNode initialHead = new ListNode(-1);
+        ListNode initHead = new ListNode(-1);
         int pos = 1;
         while(pos < left){
-            initialHead = head;
+            initHead = head;
             head = head.next;
             pos++;
         }
+
         ListNode temp = head;
-        ListNode[] arr = reverseLinkedList(head, pos, right);
-        initialHead.next = arr[0];
+        ListNode[] arr = reverseLinkedList(head, right, pos);
+        initHead.next = arr[0];
         temp.next = arr[1];
 
         if(left == 1)
-            return initialHead.next;
-
+            return initHead.next;
+        
         return root;
     }
 
-    private ListNode[] reverseLinkedList(ListNode head, int pos, int right){
+    private ListNode[] reverseLinkedList(ListNode head, int right, int pos) {
         ListNode prev = null;
         while(pos <= right){
             ListNode temp = head.next;
@@ -42,6 +43,6 @@ class Solution {
 
             pos++;
         }
-        return new ListNode[]{prev,head};
+        return new ListNode[]{prev, head};
     }
 }
