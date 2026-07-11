@@ -16,7 +16,7 @@ class Solution {
         ListNode root = new ListNode(-1);
         ListNode temp = root;
         for(int i=0; i<count; i++){
-            ListNode arr[] = reverse(head,k);
+            ListNode[] arr = reverse(head, k);
             temp.next = arr[0];
             temp = head;
             head = arr[1];
@@ -35,6 +35,7 @@ class Solution {
             prev = root;
             root = temp;
         }
+
         return new ListNode[]{prev,root};
     }
 
