@@ -1175,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/garchit33/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/garchit33/LeetCode/tree/master/0886-possible-bipartition) |
 | [1377-frog-position-after-t-seconds](https://github.com/garchit33/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
