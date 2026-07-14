@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/garchit33/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/garchit33/LeetCode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/garchit33/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/garchit33/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/garchit33/LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/garchit33/LeetCode/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/garchit33/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/garchit33/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/garchit33/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/garchit33/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/garchit33/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/garchit33/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/garchit33/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/garchit33/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/garchit33/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0910-smallest-range-ii](https://github.com/garchit33/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0913-random-flip-matrix](https://github.com/garchit33/LeetCode/tree/master/0913-random-flip-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/garchit33/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0917-boats-to-save-people](https://github.com/garchit33/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/garchit33/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/garchit33/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/garchit33/LeetCode/tree/master/1129-longest-string-chain) |
@@ -891,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/garchit33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/garchit33/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
@@ -1115,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/garchit33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/garchit33/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Shortest Path
