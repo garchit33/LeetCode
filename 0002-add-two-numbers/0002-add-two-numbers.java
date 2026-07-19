@@ -15,12 +15,12 @@ class Solution {
         int carry = 0;
 
         while(l1 != null || l2 != null){
-            int val1 = l1 != null ? l1.val : 0;
-            int val2 = l2 != null ? l2.val : 0;
+            int val1 = l1!=null ? l1.val : 0;
+            int val2 = l2!=null ? l2.val : 0;
 
             int sum = val1+val2+carry;
             int newNodeVal = sum % 10;
-            carry = sum / 10;
+            carry = sum/10;
 
             ListNode node = new ListNode(newNodeVal);
             prev.next = node;
@@ -37,6 +37,6 @@ class Solution {
         }
 
         prev.next = null;
-        return result.next;        
+        return result.next;
     }
 }
