@@ -26,6 +26,15 @@ class Solution {
         return root.next;
     }
 
+    private int getCount(ListNode head){
+        int count = 0;
+        while(head != null){
+            head = head.next;
+            count++;
+        }
+        return count;
+    }
+
     private ListNode[] reverse(ListNode head, int k){
         ListNode prev = null;
         ListNode root = head;
@@ -35,16 +44,6 @@ class Solution {
             prev = root;
             root = temp;
         }
-
         return new ListNode[]{prev,root};
-    }
-
-    private int getCount(ListNode head){
-        int count = 0;
-        while(head != null){
-            head = head.next;
-            count++;
-        }
-        return count;
     }
 }
