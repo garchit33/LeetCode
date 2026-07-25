@@ -18,7 +18,7 @@ class Solution {
             }
         }
 
-        ListNode result = new ListNode(-100);
+        ListNode result = new ListNode(-1);
         ListNode root = result;
         while(pq.size() > 0){
             ListNode rm = pq.poll();
