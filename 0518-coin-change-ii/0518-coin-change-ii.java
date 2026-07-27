@@ -15,6 +15,10 @@ class Solution {
         if(i == coins.length || amount < 0)
             return 0;
         
+        if(coins[i] > amount) {
+            return dp[i][amount] = solve(i+1, coins, amount, dp);
+        }
+
         if(dp[i][amount] != -1)
             return dp[i][amount];
         
