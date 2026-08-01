@@ -6,17 +6,16 @@ class Solution {
         return ans;
     }
 
-    private void find(int[] arr, int target, int pos, List<Integer> list) {
+    private void find(int[] arr, int target, int idx, List<Integer> list){
         if(target == 0){
             ans.add(new ArrayList<>(list));
             return;
         }
 
-        if(target<0 || pos == arr.length){
+        if(target < 0 || idx == arr.length)
             return;
-        }
 
-        for(int i=pos; i<arr.length; i++){
+        for(int i=idx; i<arr.length; i++){
             list.add(arr[i]);
             find(arr, target-arr[i], i, list);
             list.remove(list.size()-1);
