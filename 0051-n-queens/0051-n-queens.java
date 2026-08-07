@@ -1,30 +1,30 @@
 class Solution {
-    List<List<String>> res = new ArrayList<>();
+    List<List<String>> result = new ArrayList<>();
     public List<List<String>> solveNQueens(int n) {
         char[][] board = new char[n][n];
         for(int i=0; i<board.length; i++){
-            for(int j=0; j<board.length; j++){
+            for(int j=0; j<board[i].length; j++){
                 board[i][j] = '.';
             }
         }
 
-        evaluvateBoard(board, 0);
-        return res;
+        checkBoard(board, 0);
+        return result;
     }
 
-    private void evaluvateBoard(char[][] board, int row){
+    private void checkBoard(char[][] board, int row){
         if(row == board.length){
             List<String> list = new ArrayList<>();
             for(int i=0; i<board.length; i++){
                 list.add(new String(board[i]));
             }
-            res.add(list);
+            result.add(list);
         }
 
         for(int col=0; col<board.length; col++){
             if(isSafe(board, row, col)){
                 board[row][col] = 'Q';
-                evaluvateBoard(board, row+1);
+                checkBoard(board, row+1);
                 board[row][col] = '.';
             }
         }
@@ -36,7 +36,7 @@ class Solution {
                 return false;
         }
 
-        int maxLeft = Math.min(row,col);
+        int maxLeft = Math.min(row, col);
         for(int i=0; i<=maxLeft; i++){
             if(board[row-i][col-i] == 'Q')
                 return false;
