@@ -1246,4 +1246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0986-interval-list-intersections](https://github.com/garchit33/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/garchit33/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/garchit33/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
