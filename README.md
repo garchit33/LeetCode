@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-largest-sum-of-averages](https://github.com/garchit33/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/garchit33/LeetCode/tree/master/0848-shifting-letters) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/garchit33/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0875-koko-eating-bananas](https://github.com/garchit33/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/garchit33/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/garchit33/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0917-boats-to-save-people](https://github.com/garchit33/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/garchit33/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/garchit33/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0826-most-profit-assigning-work](https://github.com/garchit33/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/garchit33/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/garchit33/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1027-longest-arithmetic-subsequence](https://github.com/garchit33/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/garchit33/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
