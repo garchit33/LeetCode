@@ -6,11 +6,11 @@ class Solution {
             map.put(t.charAt(i), map.getOrDefault(t.charAt(i),0)+1);
         }
 
-        int countReq = t.length();
         int l=0;
         int r=0;
         int winSize = Integer.MAX_VALUE;
-        int startIdx = 0;
+        int startIdx = l;
+        int countReq = t.length();
 
         while(r < s.length()){
             if(map.containsKey(s.charAt(r)) && map.get(s.charAt(r)) > 0){
@@ -26,9 +26,9 @@ class Solution {
                 }
 
                 map.put(s.charAt(l), map.getOrDefault(s.charAt(l),0)+1);
-                if(map.get(s.charAt(l)) > 0){
+                if(map.get(s.charAt(l)) > 0)
                     countReq++;
-                }
+
                 l++;
             }
             r++;
