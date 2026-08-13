@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/garchit33/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/garchit33/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/garchit33/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/garchit33/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/garchit33/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/garchit33/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/garchit33/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/garchit33/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/garchit33/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/garchit33/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/garchit33/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/garchit33/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/garchit33/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/garchit33/LeetCode/tree/master/0120-triangle) |
@@ -1225,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garchit33/LeetCode/tree/master/0070-climbing-stairs) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Doubly-Linked List
 |  |
