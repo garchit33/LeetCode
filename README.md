@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/garchit33/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/garchit33/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/garchit33/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/garchit33/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/garchit33/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/garchit33/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/garchit33/LeetCode/tree/master/0090-subsets-ii) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/garchit33/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/garchit33/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/garchit33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/garchit33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -1043,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/garchit33/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/garchit33/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/garchit33/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/garchit33/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/garchit33/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/garchit33/LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/garchit33/LeetCode/tree/master/0257-binary-tree-paths) |
