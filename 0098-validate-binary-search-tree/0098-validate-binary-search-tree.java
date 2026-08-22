@@ -18,11 +18,13 @@ class Solution {
     public boolean isValidBST(TreeNode root) {
         if(root == null)
             return true;
+        
         if(!isValidBST(root.left))
             return false;
         if(prev != null && prev >= root.val)
             return false;
         prev = root.val;
-        return isValidBST (root.right);
+
+        return isValidBST(root.right);
     }
 }
