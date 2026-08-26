@@ -24,10 +24,10 @@ class Solution {
         if(root == null)
             return 0;
         
-        int left = Math.max(0, find(root.left));
+        int left = Math.max(0 , find(root.left));
         int right = Math.max(0, find(root.right));
 
-        ans = Math.max(ans, left + right + root.val);
+        ans = Math.max(ans, left+right+root.val);
 
         return Math.max(left, right) + root.val;
     }
