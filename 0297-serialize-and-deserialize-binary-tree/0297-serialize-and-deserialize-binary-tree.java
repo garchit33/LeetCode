@@ -13,11 +13,10 @@ public class Codec {
     public String serialize(TreeNode root) {
         if(root == null)
             return "null";
-        
+
         StringBuilder sb = new StringBuilder();
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
-
         while(q.size() > 0){
             int size = q.size();
             for(int i=0; i<size; i++){
@@ -45,21 +44,21 @@ public class Codec {
         TreeNode root = new TreeNode(Integer.parseInt(arr[0]));
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
-        
-        int i = 1;
-        while(q.size()>0 && i < arr.length){
-            TreeNode rm = q.poll();
-            if(!arr[i].equals("null")){
-                rm.left = new TreeNode(Integer.parseInt(arr[i]));
-                q.offer(rm.left);
-            }
-            i++;
 
-            if(i < arr.length && !arr[i].equals("null")){
+        int i=1;
+        while(q.size() > 0 && i < arr.length){
+           TreeNode rm = q.poll();
+           if(!arr[i].equals("null")){
+                rm.left = new TreeNode(Integer.parseInt(arr[i]));
+                q.offer(rm.left); 
+           }
+           i++;
+
+           if(i<arr.length && !arr[i].equals("null")){
                 rm.right = new TreeNode(Integer.parseInt(arr[i]));
                 q.offer(rm.right);
-            }
-            i++;
+           }
+           i++;
         }
         return root;
     }
