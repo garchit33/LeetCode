@@ -6,13 +6,13 @@ class Solution {
         }
 
         Arrays.sort(freq);
-        int maxIdlePerTask = freq[25]-1;
-        int maxIdle = maxIdlePerTask * n;
+        int idlePerTask = freq[25]-1;
+        int maxIdle = idlePerTask * n;
 
         for(int i=24; i>=0; i--){
-            maxIdle -= Math.min(maxIdlePerTask, freq[i]);
+            maxIdle -= Math.min(idlePerTask, freq[i]);
         }
 
-        return maxIdle < 0 ? tasks.length : tasks.length+maxIdle;
+        return maxIdle < 0 ? tasks.length : tasks.length + maxIdle;
     }
 }
