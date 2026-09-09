@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/garchit33/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/garchit33/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/garchit33/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/garchit33/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/garchit33/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/garchit33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/garchit33/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/garchit33/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/garchit33/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/garchit33/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/garchit33/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/garchit33/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/garchit33/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/garchit33/LeetCode/tree/master/0146-lru-cache) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/garchit33/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/garchit33/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/garchit33/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/garchit33/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/garchit33/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garchit33/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/garchit33/LeetCode/tree/master/0174-dungeon-game) |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garchit33/LeetCode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/garchit33/LeetCode/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/garchit33/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garchit33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1149,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garchit33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garchit33/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/garchit33/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/garchit33/LeetCode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/garchit33/LeetCode/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/garchit33/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/garchit33/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -1270,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/garchit33/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/garchit33/LeetCode/tree/master/0139-word-break) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/garchit33/LeetCode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Doubly-Linked List
 |  |
@@ -1337,4 +1343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/garchit33/LeetCode/tree/master/0127-word-ladder) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/garchit33/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
