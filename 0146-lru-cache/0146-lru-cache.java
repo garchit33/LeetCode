@@ -10,7 +10,8 @@ class LRUCache {
 
     int capacity, size;
     Node head, tail;
-    Map<Integer, Node> nodeMap;
+    Map<Integer,Node> nodeMap;
+
     public LRUCache(int capacity) {
         this.capacity = capacity;
         this.size = 0;
@@ -35,9 +36,10 @@ class LRUCache {
             Node node = nodeMap.get(key);
             deleteNode(node);
         }
-       addNode(key, value);
-       if(size > capacity)
+        addNode(key, value);
+        if(size > capacity){
             deleteNode(tail.prev);
+        }
     }
 
     private void addNode(int key, int value){
@@ -54,7 +56,6 @@ class LRUCache {
         nodeMap.remove(node.key);
         node.next.prev = node.prev;
         node.prev.next = node.next;
-        node = null;
         size--;
     }
 }
