@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(nums);
         int l=0, r=0, ans=0;
         while(r < nums.length){
-            if(l<r && nums[r]-nums[l] > 1)
+            while(l<r && nums[r]-nums[l] > 1)
                 l++;
             
             if(nums[l] != nums[r])
