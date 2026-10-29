@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/garchit33/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garchit33/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/garchit33/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/garchit33/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/garchit33/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2013-detect-squares](https://github.com/garchit33/LeetCode/tree/master/2013-detect-squares) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/garchit33/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/garchit33/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/garchit33/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/garchit33/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/garchit33/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/garchit33/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garchit33/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/garchit33/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/garchit33/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/garchit33/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/garchit33/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/garchit33/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/garchit33/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/garchit33/LeetCode/tree/master/1889-minimum-space-wasted-from-packaging) |
